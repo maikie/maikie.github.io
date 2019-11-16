@@ -1,8 +1,8 @@
-## 欢迎访问我的个人主页
+## Hello World
 
-页面建设中……
+Coming soon, please stay tuned.
 
-## 联系方式
+## Contact
 
 Email: ming_zym_ps@sina.com
 
